@@ -5,3 +5,5 @@ My training repository
 - Cat
 - Squirrel
 - Bird
+
+git Rocks! 'cause it's a great tool (duh)!
