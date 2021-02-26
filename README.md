@@ -4,3 +4,4 @@ My training repository
 - Dog
 - Cat
 - Squirrel
+- Bird
